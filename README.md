@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <!-- Animated Banner -->
@@ -358,3 +359,6 @@ git push origin feature/your-improvement
 <sub>⭐ Star this repo if it helped you — it keeps the project alive and visible.</sub>
 
 </div>
+=======
+# -Brain-Tumor-Detection
+>>>>>>> d4a2b8d218d334ccfa1bd4207c3e65a0e3dec5b8
